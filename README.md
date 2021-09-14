@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Purvi Rawal
 - 👀 I’m interested in programming and learning new technologies
-- � I’m looking for a Full Stack Enginner job and to collaborate on open source python projects
+- � I’m looking for a Full Stack Engineer job and to collaborate on open source python projects
 - 📫 I can be reached at purvirawal.work@gmail.com
 
 <!---
